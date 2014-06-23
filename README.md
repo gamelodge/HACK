@@ -4,7 +4,7 @@ For your Public Contributions chart on GitHub.
 
 ### [Demo](https://github.com/public-contributions)
 
-#### Screenshot
+#### Screenshot?
 
 ![](https://raw.github.com/public-contributions/HACK/master/hack.png)
 
